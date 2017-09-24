@@ -8,6 +8,20 @@
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+    
+
+<dependency>
+      <groupId>com.sparkjava</groupId>
+      <artifactId>spark-core</artifactId>
+      <version>2.5.4</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.sparkjava</groupId>
+      <artifactId>spark-template-mustache</artifactId>
+      <version>2.3</version>
+    </dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
