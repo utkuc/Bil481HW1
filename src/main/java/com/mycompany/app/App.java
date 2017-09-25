@@ -32,7 +32,7 @@ public class App
 
           String input1 = req.queryParams("input1");
           java.util.Scanner sc1 = new java.util.Scanner(input1);
-          sc1.useDelimiter("[;\r\n]+");
+          sc1.useDelimiter("\\n");
           java.util.ArrayList<String> inputList = new java.util.ArrayList<>();
           while (sc1.hasNext())
           {
