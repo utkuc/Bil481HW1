@@ -4,6 +4,6 @@ This program is basicly searching given string list and finds if there is any ma
 Instructions to Use:  
 -Proceed to https://powerful-lowlands-45464.herokuapp.com/compute  
 -In Form 1: Type your strings and press enter for each string  
--In Form 2: Give your Lower Bound for String length
--In Form 3: Give your Upper Bound for String Length
+-In Form 2: Give your Lower Bound for String length  
+-In Form 3: Give your Upper Bound for String Length  
 
