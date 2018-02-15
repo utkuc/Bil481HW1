@@ -3,7 +3,7 @@ Demo Site: https://powerful-lowlands-45464.herokuapp.com
 This program is basicly searching 2 string lists and returns true if BOTH string lists contain string in given range 
 Instructions to Use:  
 -Proceed to https://powerful-lowlands-45464.herokuapp.com/compute  
--In Form 1: Type your strings and press enter for each string  
--In Form 2: Give your Lower Bound for String length  
--In Form 3: Give your Upper Bound for String Length  
+-In Form 1 and Form 2: Type your strings and press enter for each string  
+-In Form 3: Give your Lower Bound for String length  
+-In Form 4: Give your Upper Bound for String Length  
 
